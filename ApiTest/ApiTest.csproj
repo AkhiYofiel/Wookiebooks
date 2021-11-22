@@ -19,8 +19,7 @@
       <PrivateAssets>all</PrivateAssets>
     </PackageReference>
   </ItemGroup>
-
-  <ItemGroup>
+	<ItemGroup>
     <ProjectReference Include="..\WookiebookApi\WookiebookApi.csproj" />
   </ItemGroup>
 
