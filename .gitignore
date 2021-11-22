@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/WookiebookApi/.vs/WookiebookApi/v17
+/.vs
+/ApiTest/bin/Debug/net6.0
+/ApiTest/obj
+/WookiebookApi/bin/Debug/net6.0
+/WookiebookApi/obj
